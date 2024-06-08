@@ -1,10 +1,9 @@
-# This is a drawing and editing tool made by Acro_Studios
+# This is a Text editor developed by Acro_Studios
 ## How to use
 ### How to download
-1. Go to https://ohiokid13.itch.io/logo-maker
-2. Unpack the files
-3. Go to the start menu and type "Windows powershell ISE (x86)"
-4. When you open it, click open and the choose the main.ps1 file that you downloaded.
-5. Then in the powershell terminal type ´´´Set-ExecutionPolicy RemoteSigned´´´ and when prompted click ok
-6. in the powershell terminal type ´´´cd "The path to the file"´´´
-7. then type ´´´.\main.ps1´´´ or  ´´´pwsh main.ps1´´´
+1. Go to https://ohiokid13.itch.io/texteredit
+2. Download
+3. Go to microsoft store and download latest version of python
+4. go to command line and copy the directory with the files
+5. paste in command line and press enter
+6. when python is installed type python main.py
