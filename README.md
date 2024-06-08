@@ -3,7 +3,6 @@
 ### How to download
 1. Go to https://ohiokid13.itch.io/texteredit
 2. Download
-3. Go to microsoft store and download latest version of python
-4. go to command line and copy the directory with the files
-5. paste in command line and press enter
-6. when python is installed type python main.py
+4. go to command line and copy the directory with the files and type program.bat
+6. when python is installed type execute.bat
+7. or manually install python from microsoft store
